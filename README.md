@@ -1,4 +1,6 @@
-Hello!👋
+<h1 align="center">Hello!👋</h1>
+<h3 align="center">I'm Jacob.</h3>
+<br>
 ![](https://komarev.com/ghpvc/?jwt2706=your-github-username&color=green)
  like coding and bringing ideas to life, and this is where I do that :)
 
