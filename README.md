@@ -3,7 +3,7 @@
 
 ## Here's a little list of what I've been working with:
 
-**WebDev:** JavaScript, HTML, TailwindCSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
+**WebDev:**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=transparent">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwt2706&layout=compact">
