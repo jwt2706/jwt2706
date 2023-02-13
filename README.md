@@ -1,5 +1,5 @@
 Hello!👋
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?jwt2706=your-github-username&color=green)
  like coding and bringing ideas to life, and this is where I do that :)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=transparent">
