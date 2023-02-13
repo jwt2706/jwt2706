@@ -2,7 +2,6 @@ Welcome to my Github profile!
 
 I like coding and bringing ideas to life, and this is where I do that :)
 
-![jwt2706's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwt2706&langs_count=8)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=transparent">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwt2706&layout=compact">
 [comment]: # (Here is the repo for the github widgets: https://github.com/anuraghazra/github-readme-stats)
