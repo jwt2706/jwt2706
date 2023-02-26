@@ -15,7 +15,7 @@ I have lots of ideas.. just limited time.
 <img src="https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=transparent">
 
 ## My biggest projects:
-<a href="https://github.com/uophotoclub/uophotoclub.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=uophotoclub&repo=uophotoclub.github.io"><a/>
+<a href="https://github.com/uophotoclub/uophotoclub.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=uophotoclub&repo=uophotoclub.github.io&theme=transparent"><a/>
 
 
 
