@@ -12,10 +12,10 @@ I have lots of ideas.. just limited time.
 
 ## Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=transparent">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=transparent"></p>
 
 ## My biggest projects:
-<a align="center" href="https://github.com/uophotoclub/uophotoclub.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=uophotoclub&repo=uophotoclub.github.io&theme=transparent"></a>
+<p align="center"><a href="https://github.com/uophotoclub/uophotoclub.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=uophotoclub&repo=uophotoclub.github.io&theme=transparent"></a></p>
 
 
 
