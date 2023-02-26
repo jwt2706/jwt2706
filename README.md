@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Jacob. 👋</h1>
-<p float="right"><img src="https://komarev.com/ghpvc/?username=jwt2706&color=green"></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=jwt2706&color=green"></p>
 
 I have lots of ideas.. just limited time.
 
