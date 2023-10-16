@@ -16,7 +16,7 @@ There's a lot that you can do with code. I'm just going to see what I can make.
 
 ## Projects:
 <a href="https://github.com/uophotoclub/uophotoclub.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=uophotoclub&repo=uophotoclub.github.io&theme=transparent"></a>
-<a href="https://github.com/Resultats-de-Testes-Accessibles/RTA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rapid Test App&repo=github.com/Resultats-de-Testes-Accessibles/RTA&theme=transparent"></a>
+<a href="https://github.com/Resultats-de-Testes-Accessibles/RTA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RTA&repo=https://github.com/Resultats-de-Testes-Accessibles/RTA&theme=transparent"></a>
 
 
 
