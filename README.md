@@ -2,6 +2,8 @@
 
 There's a lot that you can do with code. I'm just going to see what I can make.
 
+I'm working on a website: <https://jwt2706.ca>
+
 ## Stats:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=transparent"></p>
