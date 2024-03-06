@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm jwt. 👋</h1>
 
-There's a lot that you can do with code. I'm just going to see what I can make.
+I'm just tinkering
 
-I'm working on a website: <https://jwt2706.ca>
+btw i'm working on a website: <https://jwt2706.ca>
 
 ## Stats:
 
