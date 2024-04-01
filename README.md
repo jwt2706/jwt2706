@@ -1,8 +1,9 @@
 <h1 align="center">Hello, I'm jwt2706. 👋</h1>
 
-I'm just tinkering
+I'm just tinkering..
 
-My website is up [:D](https://jwt2706.ca)
+website is up tho :D<br/>
+<https://jwt2706.ca>
 
 ## Stats:
 
