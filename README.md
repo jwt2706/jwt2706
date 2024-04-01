@@ -1,8 +1,8 @@
-<h1 align="center">Hello, I'm jwt. 👋</h1>
+<h1 align="center">Hello, I'm jwt2706. 👋</h1>
 
 I'm just tinkering
 
-btw i'm working on a website: <https://jwt2706.ca>
+My website is up [:D](https://jwt2706.ca)
 
 ## Stats:
 
