@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm jwt2706. 👋</h1>
 
-I'm just tinkering..
+I'm just tinkering...
 
-website is up tho :D<br/>
-<https://jwt2706.ca>
+![Static Badge](https://img.shields.io/badge/website-jwt2706.ca-blue?style=for-the-badge&link=https%3A%2F%2Fjwt2706.ca&link=https%3A%2F%2Fjwt2706.ca)
+
 
 ## Stats:
 
