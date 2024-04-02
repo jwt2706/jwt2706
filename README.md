@@ -15,7 +15,7 @@ I'm just tinkering...
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=transparent"></p>
 
 <div align="center">
-  <a href="https://jwt2706.ca/public.key">
+  <a href="https://jwt2706.ca/jwt2706_public.key">
     <img alt="GPG key static badge" src="https://img.shields.io/badge/GPG_key-grey?style=for-the-badge">
   </a>
 </div>
