@@ -2,8 +2,9 @@
 
 I'm just tinkering...
 
-![Static Badge](https://img.shields.io/badge/website-jwt2706.ca-blue?style=for-the-badge&link=https%3A%2F%2Fjwt2706.ca&link=https%3A%2F%2Fjwt2706.ca)
-
+<a href="https://jwt2706.ca">
+  <img src="https://img.shields.io/badge/website-jwt2706.ca-blue?style=for-the-badge">
+</a>
 
 ## Stats:
 
