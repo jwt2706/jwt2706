@@ -1,9 +1,9 @@
 <p align="center">I'm just tinkering...</p>
 <div align="center">
-  <a href="https://jwt2706.ca">
-    <img alt="Website link static badge" src="https://img.shields.io/badge/website-jwt2706.ca-blue?style=for-the-badge">
+  <a href="https://jthome.net">
+    <img alt="Website link static badge" src="https://img.shields.io/badge/website-jthome.net-blue?style=for-the-badge">
   </a>
-  <a href="https://jwt2706.ca/jwt2706_public.key">
+  <a href="https://jthome.net/jwt2706_public.key">
     <img alt="GPG key static badge" src="https://img.shields.io/badge/GPG_key-grey?style=for-the-badge">
   </a>
 </div>
