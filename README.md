@@ -7,5 +7,24 @@
     <img alt="GPG key static badge" src="https://img.shields.io/badge/GPG_key-grey?style=for-the-badge">
   </a>
 </div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=transparent"></p>
+
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=transparent"></p>-->
+
+<div align="center"><pre><code>
+  
+                       .                                                   
+                +++*%@@@@@:                                                
+         -         +%%%#*=-%*                                              
+       =+=               -#%#=                                             
+     :+=+-:=      : :@@===-           _          _   ____ _____ ___   __   
+    .+===+-     ==%%#%%+.            (_)_      _| |_|___ \___  / _ \ / /_  
+     +*%%+  +==**==*@@*++:           | \ \ /\ / / __| __) | / / | | | '_ \ 
+     :+  -++*#*=%+==+@@%#*           | |\ V  V /| |_ / __/ / /| |_| | (_) |
+      ++*+:   ++=%*+-=@*+*-         _/ | \_/\_/  \__|_____/_/  \___/ \___/ 
+                :*+=%***           |__/ (https://jthome.net)               
+           +      =  =*:                                                   
+          =+        ++ :                                                   
+          =-+=+  -*==:.                                                    
+              =+*++*:                                                      
+</code></pre>
 <p align="center">:D</p>
