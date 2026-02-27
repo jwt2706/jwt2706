@@ -1,13 +1,9 @@
-<p align="center">I'm just tinkering...</p>
-<div align="center">
-  <a href="https://jthome.net">
-    <img alt="Website link static badge" src="https://img.shields.io/badge/website-jthome.net-blue?style=for-the-badge">
-  </a>
-  <a href="https://jthome.net/jwt2706_public.key">
-    <img alt="GPG key static badge" src="https://img.shields.io/badge/GPG_key-grey?style=for-the-badge">
-  </a>
+<div>
+  <h1>Hello 👋</h1>
 </div>
+<p>I like to build things. If you wanna chat, or have any inquiries, feel free to reach out at <a href="mailto:howdy@jthome.net">howdy@jthome.net</a>.</p>
 
+<!-- profile card broke  -->
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jwt2706&show_icons=true&theme=transparent"></p>-->
 
 <div align="center"><pre><code>
@@ -21,10 +17,22 @@
      +*%%+  +==**==*@@*++:           | \ \ /\ / / __| __) | / / | | | '_ \ 
      :+  -++*#*=%+==+@@%#*           | |\ V  V /| |_ / __/ / /| |_| | (_) |
       ++*+:   ++=%*+-=@*+*-         _/ | \_/\_/  \__|_____/_/  \___/ \___/ 
-                :*+=%***           |__/ (https://jthome.net)               
+                :*+=%***           |__/ I like to tinker :D                
            +      =  =*:                                                   
           =+        ++ :                                                   
           =-+=+  -*==:.                                                    
               =+*++*:                                                      
-</code></pre>
-<p align="center">:D</p>
+</code></pre></div>
+
+<h2>Links:</h2>
+<a href="mailto:howdy@jthome.net">
+  <img alt="Email link static badge" src="https://img.shields.io/badge/email_me:-howdy@jthome.net-blue?style=for-the-badge">
+</a>
+<br />
+<a href="https://jthome.net">
+  <img alt="Website link static badge" src="https://img.shields.io/badge/visit_my_website:-jthome.net-blue?style=for-the-badge">
+</a>
+<br />
+<a href="https://jthome.net/jwt2706_public.key">
+  <img alt="Website link static badge" src="https://img.shields.io/badge/download_my_key:-GPG_key_-blue?style=for-the-badge">
+</a>
